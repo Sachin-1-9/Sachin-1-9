@@ -20,11 +20,9 @@ Student Persuing CSE(Artificial Intelligence And Machine Learning)
 
 ### 🧮 My CodeChef Performance
 
-[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/info?username=Sachinn_&theme=light)](https://www.codechef.com/users/Sachinn_)
+[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/info?username=kit23bam042&theme=light)](https://www.codechef.com/users/kit23bam042)
 
-[![CodeChef Rating Graph](https://codechef-readme-stats.vercel.app/graph?username=Sachinn_&theme=light)](https://www.codechef.com/users/Sachinn_)
-
-
+[![CodeChef Rating Graph](https://codechef-readme-stats.vercel.app/graph?username=kit23bam042&theme=light)](https://www.codechef.com/users/kit23bam042)
 
 
 
