@@ -19,14 +19,13 @@ Student Persuing CSE(Artificial Intelligence And Machine Learning)
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-1-9&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ## 🌐 Connect With Me
 <div align="center">
-<a href="https://www.linkedin.com/in/Elango-E">
+<a href="https://www.linkedin.com/in/sachin-d-a22086298/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:elango.e@example.com">
+<a href="mailto:sachindevarajsachin@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://codolio.com/profile/Elango">
+<a href="https://codolio.com/profile/Saaachinn">
   <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Codolio" />
 </a>
-
 <br/><br/>
