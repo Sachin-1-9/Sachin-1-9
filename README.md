@@ -17,6 +17,7 @@ Student Persuing CSE(Artificial Intelligence And Machine Learning)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachinn_?theme=forest&font=Noto%20Sans%20Sora%20Sompeng&ext=heatmap)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-1-9&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Sachin-1-9/Sachin-1-9/output/github-contribution-grid-snake.svg)
 
 
 
