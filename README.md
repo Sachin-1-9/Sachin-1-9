@@ -18,7 +18,9 @@ Student Persuing CSE(Artificial Intelligence And Machine Learning)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-1-9&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![CodeChef Profile](https://img.shields.io/badge/CodeChef-kit23bam042-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/kit23bam042)
+[![CodeChef Stats](https://codechef-readme-stats.vercel.app/api/info?username=kit23bam042_&theme=light)](https://www.codechef.com/users/kit23bam042_)
+[![CodeChef Rating Graph](https://codechef-readme-stats.vercel.app/graph?username=kit23bam042_&theme=light)](https://www.codechef.com/users/kit23bam042_)
+
 
 
 
