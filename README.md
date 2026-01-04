@@ -1,17 +1,65 @@
 # Hi, I'm Sachin
 
-I am a Computer Science undergraduate specializing in **Artificial Intelligence and Machine Learning**.  
-I am passionate about problem-solving, writing efficient code, and building practical software solutions.
+<p align="center">
+<table>
+  <tr>
 
-Currently, I am strengthening my foundation in **Data Structures and Algorithms**, **Full Stack Development**, and **Machine Learning**, while consistently practicing competitive programming and project-based learning.
+<!-- ABOUT ME -->
+<td width="100%" valign="top" style="border:1.5px solid #d0d7de; border-radius:10px; padding:18px;">
+
+### About Me
+
+- B.E / B.Tech in Computer Science and Engineering (AI & ML) — 3rd Year  
+- Strong interest in problem solving and writing clean, efficient code  
+- Actively focused on Data Structures & Algorithms, Full Stack Development, and Machine Learning  
+- Learning through real-world projects and competitive programming  
+- Development Environment: **MacBook Pro (M2)**  
+
+</td>
+
+  </tr>
+</table>
+</p>
 
 ---
 
-## Academic Background
+## Problem Solving & Competitive Programming
 
-- **Degree:** B.E / B.Tech in Computer Science  
-- **Specialization:** Artificial Intelligence and Machine Learning  
-- **Current Status:** Undergraduate (3rd Year)
+<p align="center">
+<table>
+  <tr>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/><br/><br/>
+  <b>LeetCode</b><br/>
+  170+ Problems Solved<br/><br/>
+  <a href="https://leetcode.com/u/Sachinn_/">View Profile</a>
+</td>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/codechef.png"/><br/><br/>
+  <b>CodeChef</b><br/>
+  600+ Problems Solved<br/><br/>
+  <a href="https://www.codechef.com/users/kit23bam042">View Profile</a>
+</td>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/codeforces.png"/><br/><br/>
+  <b>Codeforces</b><br/>
+  Active Competitive Programmer<br/><br/>
+  <a href="https://codeforces.com/profile/kit27.am42">View Profile</a>
+</td>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/combo-chart--v1.png"/><br/><br/>
+  <b>Codolio</b><br/>
+  Competitive Programming Dashboard<br/><br/>
+  <a href="https://codolio.com/profile/Saaachinn">View Profile</a>
+</td>
+
+  </tr>
+</table>
+</p>
 
 ---
 
@@ -19,93 +67,93 @@ Currently, I am strengthening my foundation in **Data Structures and Algorithms*
 
 ### Programming Languages
 <p>
-  <img src="https://img.icons8.com/color/48/python.png" width="48" height="48" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/javascript.png" width="48" height="48" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/html-5.png" width="48" height="48" alt="HTML"/>
-  <img src="https://img.icons8.com/color/48/css3.png" width="48" height="48" alt="CSS"/>
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="48" height="48" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/python.png"/>
+  <img src="https://img.icons8.com/color/48/javascript.png"/>
+  <img src="https://img.icons8.com/color/48/html-5.png"/>
+  <img src="https://img.icons8.com/color/48/css3.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 </p>
 
 ### Frameworks & Libraries
 <p>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/react-native.png" width="48" height="48" alt="React"/>
-  <img src="https://img.icons8.com/color/48/nodejs.png" width="48" height="48" alt="Node.js"/>
-  <img src="https://img.icons8.com/color/48/numpy.png" width="48" height="48" alt="NumPy"/>
-  <img src="https://img.icons8.com/color/48/pandas.png" width="48" height="48" alt="Pandas"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png"/>
+  <img src="https://img.icons8.com/color/48/react-native.png"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png"/>
+  <img src="https://img.icons8.com/color/48/numpy.png"/>
+  <img src="https://img.icons8.com/color/48/pandas.png"/>
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="48" height="48" alt="VS Code"/>
-  <img src="https://img.icons8.com/color/48/git.png" width="48" height="48" alt="Git"/>
-  <img src="https://img.icons8.com/dusk/48/anaconda.png" width="48" height="48" alt="Anaconda"/>
-  <img src="https://img.icons8.com/color/48/github.png" width="48" height="48" alt="GitHub"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/git.png"/>
+  <img src="https://img.icons8.com/dusk/48/anaconda.png"/>
+  <img src="https://img.icons8.com/color/48/github.png"/>
 </p>
-
-### Workspace
-- MacBook Pro (M2)
 
 ---
 
-## Problem Solving & Competitive Programming
+## LeetCode Overview
 
-I actively practice **Data Structures and Algorithms** with a focus on improving time and space efficiency.  
-Key areas I work on include:
-
-- Arrays and Strings  
-- Linked Lists  
-- Recursion and Backtracking  
-- Sliding Window and Two Pointer Techniques  
-- Basic Dynamic Programming  
-
-### LeetCode Statistics
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Sachinn_?theme=forest&font=Noto%20Sans%20Sora%20Sompeng&ext=heatmap)
 
 ---
 
-## GitHub Activity
+## Projects
 
-I maintain consistency in coding and contributions by:
-- Solving DSA problems
-- Working on frontend and backend concepts
-- Exploring machine learning workflows
-- Practicing clean and readable code standards
+<p align="center">
+<table>
+  <tr>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-1-9&bg_color=202124&color=fcfcfa&line=c4e3ff&point=ff8070&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png"/><br/><br/>
+  <b>Career Path Recommendation</b><br/><br/>
+  AI-based system that recommends suitable career paths based on user skills and interests.<br/><br/>
+  <a href="https://github.com/Sachin-1-9/Carrer-path-recommendation-">View Project</a>
+</td>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/web.png"/><br/><br/>
+  <b>Website Project</b><br/><br/>
+  Responsive website developed using HTML, CSS, JavaScript, and Bootstrap.<br/><br/>
+  <a href="https://github.com/Sachin-1-9/Website-project">View Project</a>
+</td>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/resume.png"/><br/><br/>
+  <b>Portfolio Website</b><br/><br/>
+  Personal portfolio showcasing skills, projects, and professional details.<br/><br/>
+  <a href="https://github.com/Sachin-1-9/portfolio">View Project</a>
+</td>
+
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
+  <img src="https://img.icons8.com/color/48/todo-list.png"/><br/><br/>
+  <b>Todo List Application</b><br/><br/>
+  Task management application implemented using JavaScript logic and DOM manipulation.<br/><br/>
+  <a href="https://github.com/Sachin-1-9/todolist-project">View Project</a>
+</td>
+
+  </tr>
+</table>
+</p>
 
 ---
 
-## Contribution Overview
+## GitHub Contribution Graph
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sachin-1-9/Sachin-1-9/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sachin-1-9/Sachin-1-9/output/github-snake.svg" />
-    <img alt="github contribution graph" src="https://raw.githubusercontent.com/Sachin-1-9/Sachin-1-9/output/github-snake.svg" />
+    <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/Sachin-1-9/Sachin-1-9/output/github-snake.svg" />
   </picture>
 </p>
 
 ---
 
-## Areas of Interest
-
-- Software Development  
-- Artificial Intelligence & Machine Learning  
-- Backend Systems  
-- Competitive Programming  
-- Problem Solving & Optimization  
-
----
-
 ## Connect With Me
 
-I am open to learning opportunities, collaborations, internships, and technical discussions.
-
-- **LinkedIn:** https://www.linkedin.com/in/sachin-d-a22086298/  
-- **Email:** sachindevarajsachin@gmail.com  
-- **Codolio:** https://codolio.com/profile/Saaachinn  
+LinkedIn: https://www.linkedin.com/in/sachin-d-a22086298/  
+Email: sachindevarajsachin@gmail.com  
 
 ---
-
-Thank you for visiting my profile.
