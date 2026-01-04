@@ -1,8 +1,29 @@
-# Hi, I'm Sachin
+<div align="center">
 
-<p align="center">
 <table>
-  <tr>
+<tr>
+<td width="65%" align="center">
+
+<!-- NAME : WHITE RECTANGLE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&text=Sachin%20D&fontSize=52&fontColor=2C4DAA&color=FFFFFF&animation=fadeIn"/>
+
+<!-- TYPING TEXT : MILD BLUE -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=4A6FA5&center=true&vCenter=true&width=650&lines=AI+%26+ML+Enthusiast+%7C+Problem+Solver;Full+Stack+Developer+in+Progress;170%2B+LeetCode+%7C+600%2B+CodeChef;Turning+Ideas+Into+Scalable+Software" />
+
+</td>
+
+<td width="35%" align="center">
+
+<!-- SOFT BLUE TECH BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=240&text=AI+%7C+ML+%7C+DSA+%7C+FULL+STACK&fontSize=20&fontColor=FFFFFF&color=0:5B8DEF,100:AEC6FF&animation=fadeIn"/>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 <!-- ABOUT ME -->
 <td width="100%" valign="top" style="border:1.5px solid #d0d7de; border-radius:10px; padding:18px;">
