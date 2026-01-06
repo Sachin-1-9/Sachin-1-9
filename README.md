@@ -33,8 +33,7 @@
 - B.E / B.Tech in Computer Science and Engineering (AI & ML) — 3rd Year  
 - Strong interest in problem solving and writing clean, efficient code  
 - Actively focused on Data Structures & Algorithms, Full Stack Development, and Machine Learning  
-- Learning through real-world projects and competitive programming  
-- Development Environment: **MacBook Pro (M2)**  
+- Learning through real-world projects and competitive programming    
 
 </td>
 
