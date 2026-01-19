@@ -33,7 +33,7 @@
 - B.E / B.Tech in Computer Science and Engineering (AI & ML) — 3rd Year  
 - Strong interest in problem solving and writing clean, efficient code  
 - Actively focused on Data Structures & Algorithms, Full Stack Development, and Machine Learning  
-- Learning through real-world projects and competitive programming    
+- Learning through real-world projects and competitive programming
 
 </td>
 
@@ -171,7 +171,7 @@
 
 ---
 
-## Connect With Me
+## Connect With Me Through
 
 LinkedIn: https://www.linkedin.com/in/sachin-d-a22086298/  
 Email: sachindevarajsachin@gmail.com  
