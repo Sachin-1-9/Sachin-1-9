@@ -127,6 +127,8 @@
 </p>
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachin-1-9&bg_color=0d1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&hide_border=true)
+---
 
 ## LeetCode Overview
 
