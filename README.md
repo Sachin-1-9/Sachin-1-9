@@ -43,6 +43,21 @@
 
 ---
 
+#  Areas of Passion  
+<div align="left">
+
+- 🏴 **Machine Learning & Artificial Intelligence**  
+  Crafting intelligent systems that learn and adapt.
+
+- 🏴 **IoT-Based Smart Solutions**  
+  Designing connected systems using sensors and microcontrollers.
+
+- 🏴 **Problem Solving Through Code**  
+  Turning complex ideas into efficient logic.
+
+</div>
+
+---
 ## Problem Solving & Competitive Programming
 
 <p align="center">
