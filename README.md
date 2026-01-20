@@ -64,7 +64,7 @@
 <table>
   <tr>
 
-<td align="center" width="25%" style="border:1.49px solid #d0d7de; border-radius:8px; padding:14px;">
+<td align="center" width="25%" style="border:1.5px solid #d0d7de; border-radius:8px; padding:14px;">
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/><br/><br/>
   <b>LeetCode</b><br/>
   170+ Problems Solved<br/><br/>
